@@ -1,0 +1,1 @@
+# Best_fit-curve-and-detrending
